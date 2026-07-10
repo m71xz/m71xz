@@ -33,5 +33,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-grey?logo=markdown)
 ![Python](https://img.shields.io/badge/Python-grey?logo=python)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
 
-![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown,python,typescript)
+![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown,python,typescript,c#)
