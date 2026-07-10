@@ -31,5 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-grey?logo=markdown)
+![Python](https://img.shields.io/badge/Python-grey?logo=python)
 
-![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown)
+![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown,python)
