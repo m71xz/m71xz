@@ -6,11 +6,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I%27m+a+frontend+and+backend+and+web+developer" /></a>
 </p> -->
 
-- 👋 Hi, I’m Lucas
+<!-- - 👋 Hi -->
 - 💻 I'm a Backend and Frontend Developer.
-- 🔭 Main Area Fivem/Website Development.
+- 🔭 Main Area Fivem/Website/API Development.
 - 📫 How to reach me
-  - Discord: **lucas.777.187**
+  - Discord: **m71xz**
 
 # Languages and Tools:
 ![VS CODE](https://img.shields.io/badge/VSCode-%230078D6?style=flat&logo=codecrafters&logoColor=white)
