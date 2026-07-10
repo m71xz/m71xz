@@ -1,6 +1,6 @@
-<h1> Hello Friends and Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<!-- <h1> Hello Friends and Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
-</p>
+</p> -->
 
 <!-- <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;I%27m+a+frontend+and+backend+and+web+developer" /></a>
