@@ -32,5 +32,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-grey?logo=markdown)
 ![Python](https://img.shields.io/badge/Python-grey?logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown,python)
+![Skills](https://skillicons.dev/icons?i=vscode,lua,html,css,js,php,cloudflare,nodejs,mysql,blender,java,markdown,python,typescript)
